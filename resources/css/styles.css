@@ -1,0 +1,6 @@
+.navbar-brand>img {
+    display: block;
+    height: 32px;
+    width: 34px;
+    padding-bottom: 5px;
+}
